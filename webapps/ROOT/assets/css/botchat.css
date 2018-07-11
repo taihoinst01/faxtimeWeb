@@ -361,7 +361,8 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea div {
   .wc-carousel button.scroll.previous {
     left: -16px; }
   .wc-carousel button.scroll.next {
-    right: -16px; }
+    /*right: -16px;*/
+    right: 34px;}
   .wc-carousel .wc-hscroll > ul {
     margin-left: -4px; }
   .wc-carousel .wc-hscroll > ul > li {
